@@ -1,0 +1,58 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.title {
+  text-align: center;
+  color: gray;
+  font-size: 70px;
+}
+
+.text {
+  text-align: center;
+}
+
+.text img {
+  width: 100px;
+  height: 100px;
+}
+
+.form-input {
+  margin-top: 10px;
+}
+
+.form-input input {
+  display: block;
+  margin: auto;
+  width: 20%;
+  padding: 5px 5px 5px 5px;
+  margin-bottom: 20px;
+}
+
+/* todoList */
+.container {
+  margin: auto;
+  width: 20%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container input {
+  height: 25px;
+  width: 25px;
+  margin-right: 5px;
+  display: flex;
+  align-items: center;
+}
